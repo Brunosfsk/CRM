@@ -120,27 +120,8 @@ O sistema **MinhaMaquina** é uma plataforma de gestão de leads e relacionament
 
 ---
 
-## 💼 Minha Atuação
-
-Como desenvolvedor full-stack no projeto, fui responsável por:
-
-- Modelagem e desenvolvimento do backend com NestJS.
-- Estruturação da API REST e WebSockets.
-- Integração com Google Cloud Storage.
-- Desenvolvimento do frontend com React, incluindo componentes, rotas e estado global.
-- Implementação de CI/CD com Docker e Google Cloud Run.
-- Documentação da API com Swagger.
-- Suporte a ambientes multi-tenant e multi-domínio.
-- Mentoria e revisão de código em equipe.
-
----
-
 ## 🤝 Considerações Finais
 
-Este projeto representa uma aplicação real, usada por clientes, com requisitos de escalabilidade, segurança e usabilidade. A combinação de **NestJS no backend** e **React no frontend** provou-se extremamente eficaz para manter um código limpo, testável e evolutivo.
+Este projeto representa uma aplicação real que construi junto a mais um desenvolvedor, usada no momento pela própria empresa, com requisitos de escalabilidade, segurança e usabilidade. A combinação de **NestJS no backend** e **React no frontend** provou-se extremamente eficaz para manter um código limpo, testável e evolutivo.
 
-Embora o código-fonte não possa ser compartilhado publicamente, este documento reflete com fidelidade minha contribuição técnica, decisões de arquitetura e experiência prática com tecnologias modernas no desenvolvimento full-stack.
-
----
-
-> ✉️ **Entre em contato**: [seu-email@exemplo.com] | [LinkedIn](https://linkedin.com/in/seu-perfil) | [Portfólio](https://seu-portifolio.com)
+Embora o código-fonte não possa ser compartilhado publicamente, este documento reflete com fidelidade a experiência prática com tecnologias modernas no desenvolvimento full-stack.
